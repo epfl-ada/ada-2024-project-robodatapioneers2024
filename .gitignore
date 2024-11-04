@@ -1,0 +1,4 @@
+*.parquet
+*.tsv
+*.csv
+.DS_Store
