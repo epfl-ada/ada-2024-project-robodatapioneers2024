@@ -22,7 +22,12 @@ We will use only YouNiverse dataset.
 ## Proposed timeline
 
 ## Organization within the team
->A list of internal milestones up until project Milestone P3.
+Andres:
+Huyen:
+Keisuke:
+Yugo:
+Zahra: 
+
 
 ## Questions for TAs
 >Add here any questions you have for us related to the proposed project.
