@@ -22,10 +22,10 @@ We will use only YouNiverse dataset.
 ## Proposed timeline
 
 ## Organization within the team
-Andres:
-Huyen:
-Keisuke:
-Yugo:
+Andres: \
+Huyen: \
+Keisuke: \
+Yugo: \
 Zahra: 
 
 
