@@ -20,11 +20,11 @@ We will use only YouNiverse dataset.
 ## Methods
 
 ## Proposed timeline
-15/11 - 22/11: general analysis \
-23/11 - 29/11: event-based analysis \
-30/11 - 6/12: sport-based analysis \
-6/12 - 13/12: connect the dots -> write a story \
-13/12 - 20/12: Make a website, finalize the conclusion 
+Week1: general analysis \
+Week2: event-based analysis \
+Week3: sport-based analysis \
+Week4: connect the dots -> write a story \
+Week5: Cleaning the repository and wrapping up the data story webpage, host cohesive and interactive visualisations to display our outcome.
 
 
 ## Organization within the team
