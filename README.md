@@ -3,13 +3,26 @@
 
 ## Abstract
 
-A 150 word description of the project idea and goals. What’s the motivation behind your project? What story would you like to tell, and why?
+> A 150 words description of the project idea and goals. What’s the motivation behind your project? What story would you like to tell, and why?
+
 
 ## Research Questions
 
 * question1
 * question2
 
+## Proposed additional datasets
+We will use only YouNiverse dataset.
+
+## Methods
+
+## Proposed timeline
+
+## Organization within the team
+>A list of internal milestones up until project Milestone P3.
+
+## Questions for TAs
+>Add here any questions you have for us related to the proposed project.
 
 
 
