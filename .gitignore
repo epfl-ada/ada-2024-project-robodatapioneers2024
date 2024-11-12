@@ -2,5 +2,5 @@
 *.tsv
 *.csv
 .DS_Store
-data
-__pycache__
+/data
+/__pycache__
