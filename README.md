@@ -7,11 +7,7 @@
 
 
 ## Research Questions
-In this analysis, we would like to answer the following questions:
-1. How does sports content change over time on YouTube?
-1. Do sports events contribute to the changes (in user engagement, content produced (sports videos or how to videos, funny clips), etc.) in each sport and in general?
-    1. How different does each sports event contribute?
-    1. What types of content in sports events go viral?
+
 
 
 ## Proposed additional datasets
