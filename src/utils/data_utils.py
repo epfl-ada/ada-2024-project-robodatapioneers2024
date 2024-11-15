@@ -42,23 +42,3 @@ def get_related_videos_with_keywords(
         )
 
     return df[df["is_related"]]
-
-
-def keyword_searcher(df, keywords):
-    return df[
-        df.apply(lambda row: any([bool(re.search(keyword, row['tags'], re.IGNORECASE)) or bool(
-            re.search(keyword, row['title'], re.IGNORECASE)) for keyword in keywords]), axis=1)
-    ].copy()
-
-
-def convert_json_to_parquet():
-    json_file_path = "../data/yt_metadata_en.jsonl"
-    chunksize = 1_000_000
-    parquet_file_path = "../data/yt_metadata_en.parquet"
-
-    for i, chunk in enumerate(pd.read_json(json_file_path, lines=True, chunksize=chunksize)):
-        print(f"Processing chunk {i}")
-        if i == 0:
-            chunk.to_parquet(parquet_file_path)
-        else:
-            chunk.to_parquet(parquet_file_path, engine="fastparquet", append=True)
