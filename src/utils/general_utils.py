@@ -1,6 +1,8 @@
 from collections import Counter
+
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
+
 
 def plot_wordcloud(texts: list[str], title: str):
     word_counts = Counter(texts)
@@ -10,4 +12,5 @@ def plot_wordcloud(texts: list[str], title: str):
     plt.axis("off")
     plt.title(title)
     plt.show()
+    
     
