@@ -1,6 +1,5 @@
 
-# Title
-Game-changer: How do the major sports events influence YouTube engagement?
+# Game-changer: How do the major sports events influence YouTube engagement?
 
 ## Abstract
 Major sports events like the World Cup, Olympics, and NBA are global spectacles that captivate billions and ignite conversations worldwide. Beyond the thrill of the games, these events significantly reshape digital landscapes, particularly on platforms like YouTube, which, with its vast global reach and accessibility, serves as a central hub where anyone, anywhere, can engage with and amplify the excitement of these moments. Our motivation is to understand the dynamic interplay between major sports events and online user engagement. \
