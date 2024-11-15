@@ -1,4 +1,9 @@
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import seaborn as sns
 import statsmodels.formula.api as smf
+
 
 def diff_in_diff(df_orig, y_column, x_column, event_date, event_name, offset_months=4):
     # Column for event (0 before the event, 1 after the event)
@@ -155,7 +160,6 @@ def diff_in_diff(df_orig, y_column, x_column, event_date, event_name, offset_mon
         control_diff = df_diff_visualize[(df_diff_visualize["is_sports"] == 0) & (df_diff_visualize.index < event_date)][x_column].mean() - df_diff_visualize[(df_diff_visualize["is_sports"] == 0) & (df_diff_visualize.index >= event_date)][x_column].mean()
 
         sports_diff = df_diff_visualize[(df_diff_visualize["is_sports"] == 1) & (df_diff_visualize.index < event_date)][x_column].mean() - df_diff_visualize[(df_diff_visualize["is_sports"] == 1) & (df_diff_visualize.index >= event_date)][x_column].mean()
-
 
         diff_in_diff_values = sports_diff - control_diff
 
