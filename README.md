@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/epfl-ada/ada-2024-project-robodatapioneers2024/Thumbnail.png)
 # Game-changer: How do the major sports events influence YouTube engagement?
 
 ## Abstract
