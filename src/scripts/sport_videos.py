@@ -3,7 +3,6 @@ import pyarrow.parquet as pq
 import pandas as pd 
 
 # Note: run this script from the root directory of the project
-
 def convert_json_to_parquet(json_file_path: str, parquet_file_path: str, chunksize: int = 1_000_000):
     for i, chunk in enumerate(pd.read_json(json_file_path, lines=True, chunksize=chunksize)):
         print(f"Processing chunk {i}")
