@@ -62,7 +62,7 @@ We focus on how users’ interest in sports is influenced by major sporting even
 
 Approach
 * User clustering
-  *   Classify videos based on user comments and count them by category or sports. Represent users as vectors, with each element indicating their comment count per video category. Cluster users (e.g., frequent baseball viewers, rare sports watchers) and analyze changes in cluster sizes and commenting behavior over time.
+  *   Classify videos based on user comments and count them by category or sports. Represent users as vectors, with each element indicating their comment count per video category. Cluster users (e.g., frequent baseball viewers, rare sports watchers) and analyze changes in cluster sizes and commenting behavior over time. Particular attention will be given to major sporting events, such as the Olympics, to analyze how these events impact fan engagement for different sports and the cluster shapes.
 
 
 ## Proposed timeline
