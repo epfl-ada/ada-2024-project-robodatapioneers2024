@@ -66,7 +66,7 @@ Approach
 
 
 ## Proposed timeline
-We did some basic analysis for each part in Milestone 2 to make sure of the feasibility of our plan, but we will do it in more detail in Milestone 3.
+We did some basic analysis for each part in Milestone 2 to make sure of the feasibility of our plan, but we will do it in more detail in Milestone 3. \
 15/11 - 22/11: Part 1, 2 \
 23/11 - 29/11: Part 2 & 3 \
 30/11 - 06/12: Part 4 \
