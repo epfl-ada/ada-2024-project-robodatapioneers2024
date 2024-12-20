@@ -12,6 +12,6 @@ def get_processed_tags(df: pd.DataFrame) -> list[str]:
         tag_list = tags.split(",")
         for sentence in tag_list:
             sentence = re.sub(r'[^\w\s]', '', sentence)
-            all_tags.extend(word_tokenize(sentence))
+            all_tags.extend(sentence.split(' '))
             
     return all_tags
