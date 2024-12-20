@@ -2,6 +2,9 @@
 # Game-changer: How do the major sports events influence YouTube engagement?
 ![alt text](docs/Thumbnail3.png)
 
+## Website
+[Link to website](https://epfl-ada.github.io/robodatapioneers2024_datastory/)
+
 ## Abstract
 Major sports events like the World Cup, Olympics, and NBA are global spectacles that captivate billions and ignite conversations worldwide. Beyond the thrill of the games, these events significantly reshape digital landscapes, particularly on platforms like YouTube, which, with its vast global reach and accessibility, serves as a central hub where anyone, anywhere, can engage with and amplify the excitement of these moments. Our motivation is to understand the dynamic interplay between major sports events and online user engagement. \
 This project explores how such important sports happenings influence YouTube engagement and content trends. Then, we will identify which types of sports videos become viral and attract people, how engagement levels fluctuate, and whether these events elevate the visibility of minority sports. Ultimately, our findings could offer valuable strategies to enhance audience engagement, foster community connections, and potentially leverage these events to promote healthier lifestyles and social well-being.
@@ -76,11 +79,11 @@ We did some basic analysis for each part in Milestone 2 to make sure of the feas
 
 
 ## Organization within the team
-Andres: Major sports events comparison(part2) \
-Huyen: Sentiment analysis(part2,3) \
-Keisuke: User clustering(part 4) \
-Yugo: Sport-based analysis(part3) \
-Zahra: Overview of trends in sport-related(part 1)
+Andres: Website coding, Major sports events comparison(part2) \
+Huyen: Sentiment analysis(part2,3), Using natural language processing (NLP) techniques to evaluate emotional responses during major sports events. \
+Keisuke: User clustering(part 4), Visualizing cluster results to propose tailored strategies for fan engagement. \
+Yugo: Sport-based analysis(part3), Designing a dynamic dashboard for real-time performance tracking during events.\
+Zahra: Overview of trends in sport-related(part 1), Creating a timeline of major shifts in global sports trends for future insights.
 
 
 
